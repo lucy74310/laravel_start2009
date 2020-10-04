@@ -67,3 +67,17 @@ Route::get('/view3', function () {
         'greeting' => '안녕하세요 ? '
     ]);
 });
+
+// @if @foreach @forelse 등
+Route::get('/view4', function () {
+//    $items = ['apple', 'kiwi', 'banana'];
+    $items = [];
+    return view('view4')->with([
+        'items' => $items
+    ]);
+});
+
+// 블레이드 상속
+Route::get('/view5', function () {
+    return view('view5');
+});

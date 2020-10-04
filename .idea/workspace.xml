@@ -20,7 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="067151d7-ae27-4293-91e6-c558cda85360" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/views/errors/503.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/layouts/master.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/partials/footer.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/view4.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/view5.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
@@ -179,7 +182,7 @@
       <workItem from="1601653955603" duration="646000" />
       <workItem from="1601654648752" duration="599000" />
       <workItem from="1601736085051" duration="3470000" />
-      <workItem from="1601810822305" duration="640000" />
+      <workItem from="1601810822305" duration="3793000" />
     </task>
     <servers />
   </component>
@@ -214,18 +217,22 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601654609207" />
-    <state x="2714" y="443" key="NewPhpFileDialog" timestamp="1601811115850">
+    <state x="2714" y="443" key="NewPhpFileDialog" timestamp="1601815825097">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2714" y="443" key="NewPhpFileDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601811115850" />
+    <state x="2714" y="443" key="NewPhpFileDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601815825097" />
     <state x="2381" y="164" key="SettingsEditor" timestamp="1601737279966">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2381" y="164" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601737279966" />
-    <state x="953" y="0" width="974" height="1047" key="dock-window-1" timestamp="1601810897771">
+    <state width="498" height="446" key="SwitcherDM" timestamp="1601814257024">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601814257024" />
+    <state x="952" y="-8" width="976" height="1056" key="dock-window-1" timestamp="1601814911084">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="953" y="0" width="974" height="1047" key="dock-window-1/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601810897771" />
+    <state x="952" y="-8" width="976" height="1056" key="dock-window-1/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601814911084" />
     <state x="2588" y="118" width="584" height="804" key="find.popup" timestamp="1601737126935">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
