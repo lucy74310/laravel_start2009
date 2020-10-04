@@ -50,3 +50,20 @@ Route::get('/test5', function () {
    return redirect(route('test4'));
 });
 
+
+// 4.1 뷰 반환
+Route::get('/view', function () {
+    return view('errors.503');
+});
+
+
+Route::get('/view2', function () {
+    return view('welcome')->with('name', 'Foo');
+});
+
+Route::get('/view3', function () {
+    return view('welcome')->with([
+        'name' => 'Foo',
+        'greeting' => '안녕하세요 ? '
+    ]);
+});
