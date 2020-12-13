@@ -64,7 +64,8 @@ Route::get('/view2', function () {
 Route::get('/view3', function () {
     return view('welcome')->with([
         'name' => 'Foo',
-        'greeting' => '안녕하세요 ? '
+        'greeting' => '안녕하세요 ? ',
+        'database' => config("database.connections.mysql.port")
     ]);
 });
 

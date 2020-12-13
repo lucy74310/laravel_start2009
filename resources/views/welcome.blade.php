@@ -8,3 +8,6 @@
 
 
 {{-- {{}} 안에 or 올때 문법 바뀐듯 .. <?=isset($greeting)? "{$greeting}" : "Hello "; ?> 와 같다고 되어 있으나 그렇지 않다. }}--}}
+
+
+<h1>{{$database}}</h1>

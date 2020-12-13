@@ -20,10 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="067151d7-ae27-4293-91e6-c558cda85360" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/views/layouts/master.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/partials/footer.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/view4.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/view5.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
@@ -159,7 +155,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../dodo" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -183,6 +179,8 @@
       <workItem from="1601654648752" duration="599000" />
       <workItem from="1601736085051" duration="3470000" />
       <workItem from="1601810822305" duration="3793000" />
+      <workItem from="1607004232598" duration="216000" />
+      <workItem from="1607859310057" duration="6038000" />
     </task>
     <servers />
   </component>
@@ -199,8 +197,17 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="640" y="255" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1607862760949">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="255" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1607862760949" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1607004260402">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1607004260402" />
     <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1601654609207">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
@@ -237,9 +244,10 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2588" y="118" width="584" height="804" key="find.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601737126935" />
-    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1601811017013">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1607864504644">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601811017013" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1607864504644" />
   </component>
 </project>
